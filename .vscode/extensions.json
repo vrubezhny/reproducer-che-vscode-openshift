@@ -1,6 +1,6 @@
 {
   "recommendations": [
     "redhat.vscode-openshift-connector",
-    "ms-kubernetes-tools.vscode-kubernetes-tools"
+    // "ms-kubernetes-tools.vscode-kubernetes-tools"
   ]
 }
